@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Apples",
+        "tescoPrice": "$1.00",
+        "aldiPrice": "$0.90"
+    },
+    {
+        "name": "Bananas",
+        "tescoPrice": "$0.50",
+        "aldiPrice": "$0.55"
+    },
+    {
+        "name": "Carrots",
+        "tescoPrice": "$0.30",
+        "aldiPrice": "$0.35"
+    },
+    {
+        "name": "Bread",
+        "tescoPrice": "$2.00",
+        "aldiPrice": "$1.80"
+    },
+    {
+        "name": "Milk",
+        "tescoPrice": "$1.50",
+        "aldiPrice": "$1.40"
+    }
+]
+
