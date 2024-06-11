@@ -23,6 +23,11 @@
         "name": "Milk",
         "tescoPrice": "$1.50",
         "aldiPrice": "$1.40"
+    },
+     {
+        "name": "Eggs",
+        "tescoPrice": "$3.50",
+        "aldiPrice": "$4.40"
     }
 ]
 
